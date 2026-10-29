@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed1coder/JavaScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmed1coder/JavaScript/issues"
+  },
+  "homepage": "https://github.com/ahmed1coder/JavaScript#readme"
 }
